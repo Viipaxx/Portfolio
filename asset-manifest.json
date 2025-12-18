@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Portfolio/static/js/main.1ff5ffbb.js",
+    "static/media/AeroDelay1.svg": "/Portfolio/static/media/AeroDelay1.18d36816345d37d2117259b2d454249d.svg",
+    "static/media/CacaReceita1.svg": "/Portfolio/static/media/CacaReceita1.0ac953a8adc270089b91b59f625b301a.svg",
+    "static/media/FindSchool1.svg": "/Portfolio/static/media/FindSchool1.62cbb602f014711677f5925a46ebf49e.svg",
+    "static/media/Robo2.svg": "/Portfolio/static/media/Robo2.c54f6e9c803fa5b6603544e0dcf38188.svg",
+    "static/media/RoadTech1.svg": "/Portfolio/static/media/RoadTech1.35960b386d37082a80b8dbbaff97bf19.svg",
+    "static/media/Cacareceita2.svg": "/Portfolio/static/media/Cacareceita2.0b8cc47402391e9a376028fff8745461.svg",
+    "static/media/RoadTech2.svg": "/Portfolio/static/media/RoadTech2.74aa01345c47580d7033c101478f48c2.svg",
+    "static/media/FindSchool2.svg": "/Portfolio/static/media/FindSchool2.92eb1b9bb4632d4327421458aad7ef58.svg",
+    "static/media/AeroDelay2.svg": "/Portfolio/static/media/AeroDelay2.98b52aebf9901191d6aa1e52506571d4.svg",
+    "static/media/Robo1.svg": "/Portfolio/static/media/Robo1.08ce132e64b8feea3af453da39fbb126.svg",
+    "static/media/banner-full-stack.png": "/Portfolio/static/media/banner-full-stack.3ec8bea0a9a2fbca56c1.png",
+    "static/media/avatar.png": "/Portfolio/static/media/avatar.3ff592eb0e462a95bd04.png",
+    "static/media/midLinkedIn.svg": "/Portfolio/static/media/midLinkedIn.23a97ce86c35611252fb9f7d3e4191c1.svg",
+    "static/media/midMail.svg": "/Portfolio/static/media/midMail.5761bf17b64f82f8478fcc8a446e3aa6.svg",
+    "static/media/midWhatsApp.svg": "/Portfolio/static/media/midWhatsApp.e9df944356ebd897f26450564665cec5.svg",
+    "static/media/midGitHub.svg": "/Portfolio/static/media/midGitHub.20dba028ce3e35304c58ac0ebde6e509.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/midPhone.svg": "/Portfolio/static/media/midPhone.b84871fc61fbeb0cc6881ddcb6266bbf.svg",
+    "static/media/midInstagram.svg": "/Portfolio/static/media/midInstagram.b7f2f68ca71f8ab7e4d1b3c491470d81.svg",
+    "main.1ff5ffbb.js.map": "/Portfolio/static/js/main.1ff5ffbb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1ff5ffbb.js"
+  ]
+}
