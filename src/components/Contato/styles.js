@@ -77,7 +77,7 @@ export const Contatos = styled.a`
     display: flex;
     align-items: center;
     transition: .5s;
-    text-align: center;
+    justify-content: center;
 
     &:hover {
         background-color: #308F8C;
@@ -85,6 +85,7 @@ export const Contatos = styled.a`
 
     @media screen and (max-width: 600px) {
         width: 125px;
+        justify-content: flex-start;
     }
 
 `
