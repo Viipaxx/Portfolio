@@ -1,15 +1,15 @@
 import styled from "styled-components";
 
 export const Container = styled.footer`
- width: 100%;
- height: 390px;
- background: #162F33;
- padding: 30px 0 0 0;
-
- @media screen and (max-width: 1000px) {
     width: 100%;
-    height: 270px;
- }
+    height: 390px;
+    background: #162F33;
+    padding: 30px 0 0 0;
+
+    @media screen and (max-width: 1000px) {
+        width: 100%;
+        height: 270px;
+    }
 `
 
 export const Title = styled.h1`
@@ -24,7 +24,12 @@ export const Title = styled.h1`
     @media screen and (max-width: 1000px) {
         font-size: 20px;
         width: 180px;
-  }
+    }
+
+    @media screen and (max-width: 600px) {
+        width: 100px;
+        font-size: 16px;
+    }
 `
 
 export const ContatosContainer = styled.div`
@@ -44,6 +49,19 @@ export const ContatosContainer = styled.div`
         gap: 15px 0;
         margin: 70px auto;
   }
+
+    @media screen and (max-width: 600px) {
+        width: 100%;
+        font-size: 16px;
+        margin: 40px auto;
+        grid-template-columns: 1fr 1fr;
+        place-items: center;
+        gap: 10px 0;
+
+        > :nth-last-child(-n + 3) {
+            margin-left: 0;
+        }
+    }
 `
 
 export const Contatos = styled.a`
@@ -65,9 +83,15 @@ export const Contatos = styled.a`
         background-color: #308F8C;
     }
 
+    @media screen and (max-width: 600px) {
+        width: 125px;
+    }
+
 `
 export const ContatosIcon = styled.img`
     width: 20px;
     height: 20px;
     margin-right: 15px;
+
+    @media screen and (max-width: 600px) {}
 `

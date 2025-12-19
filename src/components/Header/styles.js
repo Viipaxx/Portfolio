@@ -14,10 +14,8 @@ export const Container = styled.header`
   }
 
     @media screen and (max-width: 600px) {
-      padding: 0 0 0 10px;
-  }
-
-  
+      padding: 0 10px;
+  }  
 `
 
 export const LogoSection = styled.div`
