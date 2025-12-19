@@ -1,4 +1,4 @@
-import { Container, Contatos, ContatosContainer, ContatosIcon, Row, Title } from "./styles"
+import { Container, Contatos, ContatosContainer, ContatosIcon, Title } from "./styles"
 import midPhone from '../../assets/img/midPhone.svg'
 import midMail from '../../assets/img/midMail.svg'
 import midWhatsApp from '../../assets/img/midWhatsApp.svg'
