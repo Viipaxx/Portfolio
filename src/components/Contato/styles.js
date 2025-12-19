@@ -76,8 +76,8 @@ export const Contatos = styled.a`
     background-color: #102427;
     display: flex;
     align-items: center;
-    justify-content: center;
     transition: .5s;
+    text-align: center;
 
     &:hover {
         background-color: #308F8C;
@@ -91,7 +91,5 @@ export const Contatos = styled.a`
 export const ContatosIcon = styled.img`
     width: 20px;
     height: 20px;
-    margin-right: 15px;
-
-    @media screen and (max-width: 600px) {}
+    margin: 0 10px;
 `
